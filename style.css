@@ -476,3 +476,9 @@ footer{
 #checkout button:hover{
     background-color:red!important;
 }
+
+@media screen and (max-width: 479px) {
+   h2{
+    font-size: 34px!important;
+   }
+}
